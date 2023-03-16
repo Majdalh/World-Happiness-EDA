@@ -2,7 +2,7 @@
 
 You can find the dataset:  https://www.kaggle.com/datasets/unsdsn/world-happiness
 
-In this project:
+** In this project:
 
 1. Introduction: using OOP to introduce myself
 2. Exploring World Happiness Report 2015.
@@ -14,7 +14,7 @@ In this project:
   c. Dealing with the null values after adding the Region coulmn.
   d. Joining all the reports together and Exploring the new data.
   
-Findings:
+** Findings:
 
 Country level visualizations :
 
@@ -59,7 +59,7 @@ On the other hand:
 
 
 
-Conclusion:
+** Conclusion:
 
 According to this analysis,we explored 164 countries in 10 regions.
 we can see that Family, followed by Economy and Health have the maximum effect in determining the happiness of people in a country.
