@@ -10,10 +10,10 @@ You can find the dataset:  https://www.kaggle.com/datasets/unsdsn/world-happines
 4. Exploring the Numerical Variables: how the Social Factors contribute to The Happiness in the World.
 5. Comparing the World Happiness 2015-2019 reports by:
 
-                          a. Preparing the data to merge all the reports together.
-                          b. Adding the Region column to 2017,2018,2019 reports.
-                          c. Dealing with the null values after adding the Region coulmn.
-                          d. Joining all the reports together and Exploring the new data.
+        a. Preparing the data to merge all the reports together.
+        b. Adding the Region column to 2017,2018,2019 reports.
+        c. Dealing with the null values after adding the Region coulmn.
+        d. Joining all the reports together and Exploring the new data.
   
 ** Findings:
 
