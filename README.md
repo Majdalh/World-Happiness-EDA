@@ -1,8 +1,19 @@
 # World Happiness EDA
 
-You can find the dataset:  https://www.kaggle.com/datasets/unsdsn/world-happiness
+** Summary:
 
-** In this project:
+The World Happiness EDA (Exploratory Data Analysis) is a project that explores the happiness levels of countries around the world. It involves analyzing a dataset containing information on various factors that contribute to happiness, such as GDP, social support, and life expectancy, and examining how these factors are related to the overall happiness levels of countries.
+
+The project begins by importing and cleaning the dataset, which includes data from the World Happiness Report for multiple years. The data is then explored through visualizations and statistical analysis, including correlation matrices and regression models, to identify trends and relationships between the different variables.
+
+Some of the key findings of the analysis may include identifying which factors have the strongest correlation with happiness levels, how different regions of the world compare in terms of happiness, and which countries have experienced the most significant changes in happiness levels over time.
+
+Overall, the World Happiness EDA project aims to provide insights into the factors that contribute to happiness and how these factors vary across different countries and regions. The results of the analysis may be useful for policymakers and individuals seeking to improve the happiness and well-being of populations.
+
+You can find the dataset:  https://www.kaggle.com/datasets/unsdsn/world-happiness.
+
+
+** Contents:
 
 1. Introduction: using OOP to introduce myself
 2. Exploring World Happiness Report 2015.
@@ -14,7 +25,8 @@ You can find the dataset:  https://www.kaggle.com/datasets/unsdsn/world-happines
         b. Adding the Region column to 2017,2018,2019 reports.
         c. Dealing with the null values after adding the Region coulmn.
         d. Joining all the reports together and Exploring the new data.
-  
+        
+      
 ** Findings:
 
     *** Country level visualizations :
